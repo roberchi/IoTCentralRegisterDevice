@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IoTCentralRegisterDevice": {
+      "commandName": "Project",
+      "commandLineArgs": "--s 0ne00431622 --i 39002e000f47313037363132 --e Individual --p JK46aQSL3HUJA08KsTIHGtdQytVJJ3hVqwGp+Jf/biU/D8SsefWK0Izrmag0N9xlodnoJ8YZRbTp/nzbYFwm3g== --f notused"
+    }
+  }
+}
