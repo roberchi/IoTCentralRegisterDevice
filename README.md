@@ -2,8 +2,8 @@
 this project is a reviewed version of the code provided in this article https://www.azuredeveloper.cn/article/how-to-sas-key-group-dps.
 
 This console application in .net core allow you to:
-- register an individual device on Device Provisioning Service using Device ID and Sas key
-- register a group of device on Device Provisioning Service using Sas key
+- register an individual device on Device Provisioning Service using Device ID and SAS key
+- register a group of device on Device Provisioning Service using SAS key
 
 > iot-central-register-device 1.0.0  
 Copyright (C) 2022 iot-central-register-device
